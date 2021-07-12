@@ -1,0 +1,16 @@
+D:\CSharp\escpos01\bin\Debug\net5.0\escpos01.exe
+D:\CSharp\escpos01\bin\Debug\net5.0\escpos01.deps.json
+D:\CSharp\escpos01\bin\Debug\net5.0\escpos01.runtimeconfig.json
+D:\CSharp\escpos01\bin\Debug\net5.0\escpos01.runtimeconfig.dev.json
+D:\CSharp\escpos01\bin\Debug\net5.0\escpos01.dll
+D:\CSharp\escpos01\bin\Debug\net5.0\ref\escpos01.dll
+D:\CSharp\escpos01\bin\Debug\net5.0\escpos01.pdb
+D:\CSharp\escpos01\obj\Debug\net5.0\escpos01.csprojAssemblyReference.cache
+D:\CSharp\escpos01\obj\Debug\net5.0\escpos01.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\escpos01\obj\Debug\net5.0\escpos01.AssemblyInfoInputs.cache
+D:\CSharp\escpos01\obj\Debug\net5.0\escpos01.AssemblyInfo.cs
+D:\CSharp\escpos01\obj\Debug\net5.0\escpos01.csproj.CoreCompileInputs.cache
+D:\CSharp\escpos01\obj\Debug\net5.0\escpos01.dll
+D:\CSharp\escpos01\obj\Debug\net5.0\ref\escpos01.dll
+D:\CSharp\escpos01\obj\Debug\net5.0\escpos01.pdb
+D:\CSharp\escpos01\obj\Debug\net5.0\escpos01.genruntimeconfig.cache
